@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1087895179843",
+    "project_id": "canapp-37c1f",
+    "storage_bucket": "canapp-37c1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087895179843:android:32100cde152b35cb7bfaf6",
+        "android_client_info": {
+          "package_name": "com.example.splashcanapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087895179843-ljtruod4fnp4khnkn20iiutbdh2d6u2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSF9Ii6eBF0pnKEMe8PAJUCBmAjHDaCps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087895179843-ljtruod4fnp4khnkn20iiutbdh2d6u2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
